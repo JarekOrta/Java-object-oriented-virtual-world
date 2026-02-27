@@ -7,10 +7,10 @@ An object-oriented simulation engine built in Java featuring entity scheduling, 
 ## UML Evolution
 
 ### Original UML
-![Draft UML](draft-uml.png)
+![Draft UML](uml-images/draft-uml.png)
 
 ### Final UML
-![Final UML](final-uml.png)
+![Final UML](uml-images/final-uml.png)
 
 ---
 
